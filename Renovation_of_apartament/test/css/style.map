@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.sass"
+	],
+	"sourcesContent": [
+		"//.offer__form#username-error{position: absolute;}.offer__form#phone-error{padding-left: 255px;}\n.offer {\n\t&__form {\n\t\t&#username-error {\n\t\t\tposition: absolute; } } }\n"
+	],
+	"names": [],
+	"mappings": ";;AAEE,AACA,YADM,AACL,eAAe,CAAC;EAChB,QAAQ,EAAE,QAAQ;CAAG"
+}
